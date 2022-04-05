@@ -12,6 +12,6 @@ This linear model predicts miles per gallon of MechaCars fairly well, as evidenc
 
 ## Summary Statistics on Suspension Coils
 
-![image2](resources/part2a.png) ![image3](resources/part2b.png)
+![image2](resources/part2a.PNG) ![image3](resources/part2b.PNG)
 
 Overall, the manufacturing appears to meet design specifications, as the variance for all lots in total is under 100 PSI. However, when breaking down the coils by lot, it is clear that Lot 3 does not meet specifications with a variance of roughly 170 PSI. Coils in lots 2 and 3 are acceptable, but lot 3 needs to be further examined.
