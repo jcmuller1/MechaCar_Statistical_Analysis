@@ -10,4 +10,8 @@ The slope of the linear model is considered to be non-zero as the p-value of the
 
 This linear model predicts miles per gallon of MechaCars fairly well, as evidenced by the R squared value of 0.7149. This means that roughly 71.49% of the data used to perform the regression fits the resultant model. This number could of course be higher, but is a good starting point from a relatively small dataset.
 
-## part 2 idk.
+## Summary Statistics on Suspension Coils
+
+![image2](resources/part2a.PNG) ![image3](resources/part2b.PNG)
+
+Overall, the manufacturing appears to meet design specifications, as the variance for all lots in total is under 100 PSI. However, when breaking down the coils by lot, it is clear that Lot 3 does not meet specifications with a variance of roughly 170 PSI. Coils in lots 2 and 3 are acceptable, but lot 3 needs to be further examined.
