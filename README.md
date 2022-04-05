@@ -23,4 +23,4 @@ Overall, the manufacturing appears to meet design specifications, as the varianc
 
 The t-test of PSI across all manufacturing lots yielded a p-value of 0.06028. Since this is greater than 0.05, we cannot conclude that the sample mean is not equal to the population mean of 1500.
 
-The t-tests for PSI across the individual lots yielded p-values of 1, 0.6072, and 0.04168 for Lot 1, Lot 2, and Lot 3, respectively. We cannot conclude that the sample means for Lots 1 and 2 are not equal to the population mean of 1500; however, reject the null hypothesis in the t-test for Lot 3 and conclude that the sample mean is not 1500.
+The t-tests for PSI across the individual lots yielded p-values of 1, 0.6072, and 0.04168 for Lot 1, Lot 2, and Lot 3, respectively. We cannot conclude that the sample means for Lots 1 and 2 are not equal to the population mean of 1500; however, we reject the null hypothesis in the t-test for Lot 3 and conclude that its sample mean is not equal to the population mean of 1500.
