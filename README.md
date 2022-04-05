@@ -29,12 +29,12 @@ The t-tests for PSI across the individual lots yielded p-values of 1, 0.6072, an
 
 To test how MechaCar performs against competition, important metrics to test using a two-sample t-test would include purchase cost, fuel efficiency, maintenance cost, and safety rating. The hypotheses for these tests would be as follows:
 
-Null hypothesis: MechaCar performs equally to competition
-Alternative hypothesis: MechaCar does not perform equally to competition
+- Null hypothesis: MechaCar performs equally to competition
+- Alternative hypothesis: MechaCar does not perform equally to competition
 
 These hypotheses can be applied to the individual metrics. For example, when testing fuel efficiency, the hypotheses would be as follows:
 
-Null hypothesis: The mean fuel efficiency of MechaCar is equal to the mean fuel efficiency of the competition
-Alternative hypothesis: The mean fuel efficiency of MechaCar is not equal to the mean fuel efficiency of the competition
+- Null hypothesis: The mean fuel efficiency of MechaCar is equal to the mean fuel efficiency of the competition
+- Alternative hypothesis: The mean fuel efficiency of MechaCar is not equal to the mean fuel efficiency of the competition
 
 If a test like this is performed and the null hypothesis is not rejected, there is no significant difference between MechaCar and the competition. If the null hypothesis is rejected, there is a significant difference between MechaCar and the competition. The data required to run these tests would include data for each metric tested from both MechaCar and a competitor (or the average of competitors).
