@@ -15,3 +15,12 @@ This linear model predicts miles per gallon of MechaCars fairly well, as evidenc
 ![image2](resources/part2a.PNG) ![image3](resources/part2b.PNG)
 
 Overall, the manufacturing appears to meet design specifications, as the variance for all lots in total is under 100 PSI. However, when breaking down the coils by lot, it is clear that Lot 3 does not meet specifications with a variance of roughly 170 PSI. Coils in lots 2 and 3 are acceptable, but lot 3 needs to be further examined.
+
+## T-Tests on Suspension Coils
+
+![image4](resources/part3a.PNG)
+![image5](resources/part3b.PNG)
+
+The t-test of PSI across all manufacturing lots yielded a p-value of 0.06028. Since this is greater than 0.05, we cannot conclude that the sample mean is not equal to the population mean of 1500.
+
+The t-tests for PSI across the individual lots yielded p-values of 1, 0.6072, and 0.04168 for Lot 1, Lot 2, and Lot 3, respectively. We cannot conclude that the sample means for Lots 1 and 2 are not equal to the population mean of 1500; however, reject the null hypothesis in the t-test for Lot 3 and conclude that the sample mean is not 1500.
